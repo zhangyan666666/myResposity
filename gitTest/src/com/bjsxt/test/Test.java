@@ -5,4 +5,7 @@ public class Test {
 		System.out.println("hahaha");
 	}
 
+	public void namedd(){
+		
+	}
 }
