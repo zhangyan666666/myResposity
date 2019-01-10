@@ -8,4 +8,7 @@ public class Test {
 	public void namedd(){
 		
 	}
+public void namedd2(){
+		
+	}
 }
