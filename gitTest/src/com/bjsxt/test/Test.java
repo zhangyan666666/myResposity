@@ -11,4 +11,7 @@ public class Test {
 public void namedd2(){
 		
 	}
+public void namedd3(){
+	
+}
 }
